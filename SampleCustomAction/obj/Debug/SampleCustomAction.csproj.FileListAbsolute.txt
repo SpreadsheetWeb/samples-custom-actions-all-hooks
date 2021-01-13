@@ -1,0 +1,16 @@
+C:\Users\Onur\source\repos\SampleCustomAction\SampleCustomAction\bin\Debug\SampleCustomAction.dll
+C:\Users\Onur\source\repos\SampleCustomAction\SampleCustomAction\bin\Debug\SampleCustomAction.pdb
+C:\Users\Onur\source\repos\SampleCustomAction\SampleCustomAction\bin\Debug\Pagos.Designer.Interfaces.External.dll
+C:\Users\Onur\source\repos\SampleCustomAction\SampleCustomAction\bin\Debug\Pagos.SpreadsheetWeb.SpreadsheetWebAPI.dll
+C:\Users\Onur\source\repos\SampleCustomAction\SampleCustomAction\bin\Debug\Pagos.SpreadsheetWeb.Web.Api.Objects.dll
+C:\Users\Onur\source\repos\SampleCustomAction\SampleCustomAction\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Onur\source\repos\SampleCustomAction\SampleCustomAction\bin\Debug\Pagos.Designer.Interfaces.External.pdb
+C:\Users\Onur\source\repos\SampleCustomAction\SampleCustomAction\bin\Debug\Pagos.SpreadsheetWeb.SpreadsheetWebAPI.pdb
+C:\Users\Onur\source\repos\SampleCustomAction\SampleCustomAction\bin\Debug\Pagos.SpreadsheetWeb.SpreadsheetWebAPI.dll.config
+C:\Users\Onur\source\repos\SampleCustomAction\SampleCustomAction\bin\Debug\Pagos.SpreadsheetWeb.Web.Api.Objects.pdb
+C:\Users\Onur\source\repos\SampleCustomAction\SampleCustomAction\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Onur\source\repos\SampleCustomAction\SampleCustomAction\obj\Debug\SampleCustomAction.csprojAssemblyReference.cache
+C:\Users\Onur\source\repos\SampleCustomAction\SampleCustomAction\obj\Debug\SampleCustomAction.csproj.CoreCompileInputs.cache
+C:\Users\Onur\source\repos\SampleCustomAction\SampleCustomAction\obj\Debug\SampleCustomAction.csproj.CopyComplete
+C:\Users\Onur\source\repos\SampleCustomAction\SampleCustomAction\obj\Debug\SampleCustomAction.dll
+C:\Users\Onur\source\repos\SampleCustomAction\SampleCustomAction\obj\Debug\SampleCustomAction.pdb
